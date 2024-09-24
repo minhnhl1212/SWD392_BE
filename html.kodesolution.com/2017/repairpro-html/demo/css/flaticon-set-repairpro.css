@@ -1,0 +1,227 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 01/05/2016 18:49
+  	*/
+
+	@font-face {
+	    font-family: "flaticon-set-repairpro";
+	    src: url("../fonts/flaticons/flaticon-set-repairpro.eot");
+	    src: url("../fonts/flaticons/flaticon-set-repairpro.eot?#iefix") format("embedded-opentype"), url("../fonts/flaticons/flaticon-set-repairpro.woff") format("woff"), url("../fonts/flaticons/flaticon-set-repairpro.ttf") format("truetype"), url("../fonts/flaticons/flaticon-set-repairpro.svg#flaticon-set-repairpro") format("svg");
+	    font-weight: normal;
+	    font-style: normal;
+	}
+
+	@media screen and (-webkit-min-device-pixel-ratio:0) {
+	    @font-face {
+	        font-family: "flaticon-set-repairpro";
+	        src: url("../fonts/flaticons/flaticon-set-repairpro.svg#flaticon-set-repairpro") format("svg");
+	    }
+	}
+
+	[class^="flaticon-repairpro-"]:before,
+	[class*=" flaticon-repairpro-"]:before,
+	[class^="flaticon-repairpro-"]:after,
+	[class*=" flaticon-repairpro-"]:after {
+	    font-family: "flaticon-set-repairpro";
+	    font-style: normal;
+	}
+
+	.flaticon-repairpro-art:before {
+	    content: "\f100";
+	}
+
+	.flaticon-repairpro-car-lifter:before {
+	    content: "\f101";
+	}
+
+	.flaticon-repairpro-car-on-a-frame:before {
+	    content: "\f102";
+	}
+
+	.flaticon-repairpro-car-repair:before {
+	    content: "\f103";
+	}
+
+	.flaticon-repairpro-car-service:before {
+	    content: "\f104";
+	}
+
+	.flaticon-repairpro-car-washing-machine:before {
+	    content: "\f105";
+	}
+
+	.flaticon-repairpro-car-wheel:before {
+	    content: "\f106";
+	}
+
+	.flaticon-repairpro-car-with-cogwheels:before {
+	    content: "\f107";
+	}
+
+	.flaticon-repairpro-car-with-spare-tire:before {
+	    content: "\f108";
+	}
+
+	.flaticon-repairpro-car-with-wrench:before {
+	    content: "\f109";
+	}
+
+	.flaticon-repairpro-changing-car-tire:before {
+	    content: "\f10a";
+	}
+
+	.flaticon-repairpro-child-seat-for-the-car:before {
+	    content: "\f10b";
+	}
+
+	.flaticon-repairpro-cogwheel:before {
+	    content: "\f10c";
+	}
+
+	.flaticon-repairpro-cogwheel-1:before {
+	    content: "\f10d";
+	}
+
+	.flaticon-repairpro-mechanic:before {
+	    content: "\f10e";
+	}
+
+	.flaticon-repairpro-people:before {
+	    content: "\f10f";
+	}
+
+	.flaticon-repairpro-piston:before {
+	    content: "\f110";
+	}
+
+	.flaticon-repairpro-pistons-cross:before {
+	    content: "\f111";
+	}
+
+	.flaticon-repairpro-profile:before {
+	    content: "\f112";
+	}
+
+	.flaticon-repairpro-repair:before {
+	    content: "\f113";
+	}
+
+	.flaticon-repairpro-repair-1:before {
+	    content: "\f114";
+	}
+
+	.flaticon-repairpro-repair-2:before {
+	    content: "\f115";
+	}
+
+	.flaticon-repairpro-repairing-car:before {
+	    content: "\f116";
+	}
+
+	.flaticon-repairpro-repairing-car-1:before {
+	    content: "\f117";
+	}
+
+	.flaticon-repairpro-repairing-service:before {
+	    content: "\f118";
+	}
+
+	.flaticon-repairpro-tool:before {
+	    content: "\f119";
+	}
+
+	.flaticon-repairpro-tool-1:before {
+	    content: "\f11a";
+	}
+
+	.flaticon-repairpro-tool-2:before {
+	    content: "\f11b";
+	}
+
+	.flaticon-repairpro-tool-3:before {
+	    content: "\f11c";
+	}
+
+	.flaticon-repairpro-tool-4:before {
+	    content: "\f11d";
+	}
+
+	.flaticon-repairpro-tool-5:before {
+	    content: "\f11e";
+	}
+
+	.flaticon-repairpro-tool-6:before {
+	    content: "\f11f";
+	}
+
+	.flaticon-repairpro-tool-7:before {
+	    content: "\f120";
+	}
+
+	.flaticon-repairpro-transport:before {
+	    content: "\f121";
+	}
+
+	.flaticon-repairpro-transport-1:before {
+	    content: "\f122";
+	}
+
+	.flaticon-repairpro-transport-2:before {
+	    content: "\f123";
+	}
+
+	.flaticon-repairpro-transport-3:before {
+	    content: "\f124";
+	}
+
+	.flaticon-repairpro-transport-4:before {
+	    content: "\f125";
+	}
+
+	.flaticon-repairpro-transport-5:before {
+	    content: "\f126";
+	}
+
+	.flaticon-repairpro-transport-6:before {
+	    content: "\f127";
+	}
+
+	.flaticon-repairpro-transport-7:before {
+	    content: "\f128";
+	}
+
+	.flaticon-repairpro-two-gears:before {
+	    content: "\f129";
+	}
+
+	.flaticon-repairpro-vehicle-repair:before {
+	    content: "\f12a";
+	}
+
+	.flaticon-repairpro-web:before {
+	    content: "\f12b";
+	}
+
+	.flaticon-repairpro-wheel:before {
+	    content: "\f12c";
+	}
+
+	.flaticon-repairpro-working-tools:before {
+	    content: "\f12d";
+	}
+
+	.flaticon-repairpro-wrench:before {
+	    content: "\f12e";
+	}
+
+	.flaticon-repairpro-wrench-1:before {
+	    content: "\f12f";
+	}
+
+	.flaticon-repairpro-wrench-2:before {
+	    content: "\f130";
+	}
+
+	.flaticon-repairpro-wrench-3:before {
+	    content: "\f131";
+	}
