@@ -1,0 +1,1151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\infrastructure\\database\\nshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\infrastructure\\database\\nshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\application\\dtos\\user\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\application\\dtos\\user\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\application\\service\\supplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\application\\service\\supplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\application\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\application\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\application\\service\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\application\\service\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\application\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\application\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\makefile||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:makefile||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\infrastructure\\database\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\infrastructure\\database\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\infrastructure\\database\\nshopdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\infrastructure\\database\\nshopdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\infrastructure\\repository\\suppliers\\suppliersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\infrastructure\\repository\\suppliers\\suppliersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\application\\dtos\\supplier\\supplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\application\\dtos\\supplier\\supplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\application\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\application\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\application\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\application\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\application\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\application\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\application\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\application\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\application\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\application\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\application\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\application\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\application\\dtos\\supplier\\supplierupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\application\\dtos\\supplier\\supplierupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\application\\dtos\\supplier\\supplierquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\application\\dtos\\supplier\\supplierquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\application\\dtos\\supplier\\suppliercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\application\\dtos\\supplier\\suppliercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\application\\dtos\\product\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\application\\dtos\\product\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\application\\dtos\\product\\productquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\application\\dtos\\product\\productquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\application\\dtos\\product\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\application\\dtos\\product\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\application\\dtos\\product\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\application\\dtos\\product\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\infrastructure\\repository\\suppliers\\isuppliersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\infrastructure\\repository\\suppliers\\isuppliersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\infrastructure\\repository\\review\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\infrastructure\\repository\\review\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\infrastructure\\repository\\product\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\infrastructure\\repository\\product\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\infrastructure\\repository\\product\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\infrastructure\\repository\\product\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\infrastructure\\repository\\user\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\infrastructure\\repository\\user\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\infrastructure\\repository\\user\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\infrastructure\\repository\\user\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\domain\\suppliers\\suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\domain\\suppliers\\suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\application\\dtos\\user\\userquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\application\\dtos\\user\\userquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\application\\shared\\type\\baseresp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\application\\shared\\type\\baseresp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\domain\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\domain\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\application\\shared\\type\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\application\\shared\\type\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\application\\dtos\\user\\userupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\application\\dtos\\user\\userupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\infrastructure\\repository\\review\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\infrastructure\\repository\\review\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\application\\controllers\\pingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\application\\controllers\\pingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\domain\\store\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\domain\\store\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\application\\shared\\constant\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\application\\shared\\constant\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\domain\\product\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\domain\\product\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\application\\shared\\enum\\userstatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\application\\shared\\enum\\userstatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\application\\dtos\\auth\\tokenresp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\application\\dtos\\auth\\tokenresp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\application\\dtos\\auth\\ggauthinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\application\\dtos\\auth\\ggauthinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\application\\dtos\\auth\\refresh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\application\\dtos\\auth\\refresh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\application\\dtos\\auth\\redissession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\application\\dtos\\auth\\redissession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\domain\\cartitems\\cartitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\domain\\cartitems\\cartitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\application\\dtos\\review\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\application\\dtos\\review\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\application\\dtos\\review\\reviewquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\application\\dtos\\review\\reviewquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\application\\dtos\\review\\reviewcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\application\\dtos\\review\\reviewcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\domain\\review\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\domain\\review\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\application\\shared\\type\\errorresp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\application\\shared\\type\\errorresp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\domain\\order\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\domain\\order\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\domain\\order\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\domain\\order\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\domain\\shoppingcart\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\domain\\shoppingcart\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\application\\shared\\type\\successresp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\application\\shared\\type\\successresp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\application\\dtos\\pagination\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\application\\dtos\\pagination\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\domain\\categories\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\domain\\categories\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\domain\\image\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\domain\\image\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\domain\\role\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\domain\\role\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\src\\application\\shared\\enum\\orderstatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:src\\application\\shared\\enum\\orderstatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\nshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:nshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\be\\server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E8446034-3CFE-40B0-AA8D-E41DF90F16E8}|NShop.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 61,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SupplierQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\DTOs\\Supplier\\SupplierQuery.cs",
+              "RelativeDocumentMoniker": "src\\Application\\DTOs\\Supplier\\SupplierQuery.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\DTOs\\Supplier\\SupplierQuery.cs",
+              "RelativeToolTip": "src\\Application\\DTOs\\Supplier\\SupplierQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:57:40.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SupplierUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\DTOs\\Supplier\\SupplierUpdateDto.cs",
+              "RelativeDocumentMoniker": "src\\Application\\DTOs\\Supplier\\SupplierUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\DTOs\\Supplier\\SupplierUpdateDto.cs",
+              "RelativeToolTip": "src\\Application\\DTOs\\Supplier\\SupplierUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:57:27.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SupplierCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\DTOs\\Supplier\\SupplierCreateDto.cs",
+              "RelativeDocumentMoniker": "src\\Application\\DTOs\\Supplier\\SupplierCreateDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\DTOs\\Supplier\\SupplierCreateDto.cs",
+              "RelativeToolTip": "src\\Application\\DTOs\\Supplier\\SupplierCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:57:12.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SupplierDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\DTOs\\Supplier\\SupplierDto.cs",
+              "RelativeDocumentMoniker": "src\\Application\\DTOs\\Supplier\\SupplierDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\DTOs\\Supplier\\SupplierDto.cs",
+              "RelativeToolTip": "src\\Application\\DTOs\\Supplier\\SupplierDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:56:46.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SupplierService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\Service\\SupplierService.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Service\\SupplierService.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\Service\\SupplierService.cs",
+              "RelativeToolTip": "src\\Application\\Service\\SupplierService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAwEQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:54:48.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Jwt.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\Shared\\Constant\\Jwt.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Shared\\Constant\\Jwt.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\Shared\\Constant\\Jwt.cs",
+              "RelativeToolTip": "src\\Application\\Shared\\Constant\\Jwt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T07:13:35.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SupplierController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\Controllers\\SupplierController.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Controllers\\SupplierController.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\Controllers\\SupplierController.cs",
+              "RelativeToolTip": "src\\Application\\Controllers\\SupplierController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:52:53.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "src\\Application\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:13:29.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "TokenResp.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\DTOs\\Auth\\TokenResp.cs",
+              "RelativeDocumentMoniker": "src\\Application\\DTOs\\Auth\\TokenResp.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\DTOs\\Auth\\TokenResp.cs",
+              "RelativeToolTip": "src\\Application\\DTOs\\Auth\\TokenResp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:23:57.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Refresh.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\DTOs\\Auth\\Refresh.cs",
+              "RelativeDocumentMoniker": "src\\Application\\DTOs\\Auth\\Refresh.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\DTOs\\Auth\\Refresh.cs",
+              "RelativeToolTip": "src\\Application\\DTOs\\Auth\\Refresh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:23:57.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\DTOs\\Product\\ProductDto.cs",
+              "RelativeDocumentMoniker": "src\\Application\\DTOs\\Product\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\DTOs\\Product\\ProductDto.cs",
+              "RelativeToolTip": "src\\Application\\DTOs\\Product\\ProductDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:03:40.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\DTOs\\Product\\ProductUpdateDto.cs",
+              "RelativeDocumentMoniker": "src\\Application\\DTOs\\Product\\ProductUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\DTOs\\Product\\ProductUpdateDto.cs",
+              "RelativeToolTip": "src\\Application\\DTOs\\Product\\ProductUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:03:26.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\DTOs\\Product\\ProductQuery.cs",
+              "RelativeDocumentMoniker": "src\\Application\\DTOs\\Product\\ProductQuery.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\DTOs\\Product\\ProductQuery.cs",
+              "RelativeToolTip": "src\\Application\\DTOs\\Product\\ProductQuery.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:03:06.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\DTOs\\Product\\ProductCreateDto.cs",
+              "RelativeDocumentMoniker": "src\\Application\\DTOs\\Product\\ProductCreateDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\DTOs\\Product\\ProductCreateDto.cs",
+              "RelativeToolTip": "src\\Application\\DTOs\\Product\\ProductCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:02:50.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Service\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\Service\\ProductService.cs",
+              "RelativeToolTip": "src\\Application\\Service\\ProductService.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAF0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:00:10.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Infrastructure\\Repository\\Product\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Repository\\Product\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Infrastructure\\Repository\\Product\\ProductRepository.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Repository\\Product\\ProductRepository.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAiwDEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:50:02.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Infrastructure\\Repository\\Product\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Repository\\Product\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Infrastructure\\Repository\\Product\\IProductRepository.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Repository\\Product\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:49:41.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ISuppliersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Infrastructure\\Repository\\Suppliers\\ISuppliersRepository.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Repository\\Suppliers\\ISuppliersRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Infrastructure\\Repository\\Suppliers\\ISuppliersRepository.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Repository\\Suppliers\\ISuppliersRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:49:22.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SuppliersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Infrastructure\\Repository\\Suppliers\\SuppliersRepository.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Repository\\Suppliers\\SuppliersRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Infrastructure\\Repository\\Suppliers\\SuppliersRepository.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Repository\\Suppliers\\SuppliersRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:49:03.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ReviewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Infrastructure\\Repository\\Review\\ReviewRepository.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Repository\\Review\\ReviewRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Infrastructure\\Repository\\Review\\ReviewRepository.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Repository\\Review\\ReviewRepository.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAwD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:34:03.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ReviewQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\DTOs\\Review\\ReviewQuery.cs",
+              "RelativeDocumentMoniker": "src\\Application\\DTOs\\Review\\ReviewQuery.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\DTOs\\Review\\ReviewQuery.cs",
+              "RelativeToolTip": "src\\Application\\DTOs\\Review\\ReviewQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:32:34.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ReviewDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\DTOs\\Review\\ReviewDto.cs",
+              "RelativeDocumentMoniker": "src\\Application\\DTOs\\Review\\ReviewDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\DTOs\\Review\\ReviewDto.cs",
+              "RelativeToolTip": "src\\Application\\DTOs\\Review\\ReviewDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:00:29.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ReviewCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\DTOs\\Review\\ReviewCreateDto.cs",
+              "RelativeDocumentMoniker": "src\\Application\\DTOs\\Review\\ReviewCreateDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\DTOs\\Review\\ReviewCreateDto.cs",
+              "RelativeToolTip": "src\\Application\\DTOs\\Review\\ReviewCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:59:09.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IReviewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Infrastructure\\Repository\\Review\\IReviewRepository.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Repository\\Review\\IReviewRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Infrastructure\\Repository\\Review\\IReviewRepository.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Repository\\Review\\IReviewRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:55:31.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAAAC0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-10-03T15:08:31.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-03T14:56:00.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "RedisSession.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\DTOs\\Auth\\RedisSession.cs",
+              "RelativeDocumentMoniker": "src\\Application\\DTOs\\Auth\\RedisSession.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\DTOs\\Auth\\RedisSession.cs",
+              "RelativeToolTip": "src\\Application\\DTOs\\Auth\\RedisSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:08:51.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "GgAuthInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\DTOs\\Auth\\GgAuthInfo.cs",
+              "RelativeDocumentMoniker": "src\\Application\\DTOs\\Auth\\GgAuthInfo.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\DTOs\\Auth\\GgAuthInfo.cs",
+              "RelativeToolTip": "src\\Application\\DTOs\\Auth\\GgAuthInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:06:54.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Pagination.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\DTOs\\Pagination\\Pagination.cs",
+              "RelativeDocumentMoniker": "src\\Application\\DTOs\\Pagination\\Pagination.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\DTOs\\Pagination\\Pagination.cs",
+              "RelativeToolTip": "src\\Application\\DTOs\\Pagination\\Pagination.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:06:46.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UserUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\DTOs\\User\\UserUpdateDto.cs",
+              "RelativeDocumentMoniker": "src\\Application\\DTOs\\User\\UserUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\DTOs\\User\\UserUpdateDto.cs",
+              "RelativeToolTip": "src\\Application\\DTOs\\User\\UserUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:04:20.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UserQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\DTOs\\User\\UserQuery.cs",
+              "RelativeDocumentMoniker": "src\\Application\\DTOs\\User\\UserQuery.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\DTOs\\User\\UserQuery.cs",
+              "RelativeToolTip": "src\\Application\\DTOs\\User\\UserQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:04:14.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CartItems.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Domain\\CartItems\\CartItems.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\CartItems\\CartItems.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Domain\\CartItems\\CartItems.cs",
+              "RelativeToolTip": "src\\Domain\\CartItems\\CartItems.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T13:40:44.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PingController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\Controllers\\PingController.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Controllers\\PingController.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\Controllers\\PingController.cs",
+              "RelativeToolTip": "src\\Application\\Controllers\\PingController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:31:07.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "SuccessResp.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\Shared\\Type\\SuccessResp.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Shared\\Type\\SuccessResp.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\Shared\\Type\\SuccessResp.cs",
+              "RelativeToolTip": "src\\Application\\Shared\\Type\\SuccessResp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:27:45.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BaseResp.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\Shared\\Type\\BaseResp.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Shared\\Type\\BaseResp.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\Shared\\Type\\BaseResp.cs",
+              "RelativeToolTip": "src\\Application\\Shared\\Type\\BaseResp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:27:42.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ErrorResp.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\Shared\\Type\\ErrorResp.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Shared\\Type\\ErrorResp.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\Shared\\Type\\ErrorResp.cs",
+              "RelativeToolTip": "src\\Application\\Shared\\Type\\ErrorResp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:27:36.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "OrderDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Domain\\Order\\OrderDetails.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Order\\OrderDetails.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Domain\\Order\\OrderDetails.cs",
+              "RelativeToolTip": "src\\Domain\\Order\\OrderDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:11:14.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\Shared\\Type\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Shared\\Type\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\Shared\\Type\\BaseEntity.cs",
+              "RelativeToolTip": "src\\Application\\Shared\\Type\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:01:15.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Domain\\Review\\Review.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Review\\Review.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Domain\\Review\\Review.cs",
+              "RelativeToolTip": "src\\Domain\\Review\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T04:48:45.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Domain\\ShoppingCart\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\ShoppingCart\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Domain\\ShoppingCart\\ShoppingCart.cs",
+              "RelativeToolTip": "src\\Domain\\ShoppingCart\\ShoppingCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T04:45:33.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "OrderStatusEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\Shared\\Enum\\OrderStatusEnum.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Shared\\Enum\\OrderStatusEnum.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\Shared\\Enum\\OrderStatusEnum.cs",
+              "RelativeToolTip": "src\\Application\\Shared\\Enum\\OrderStatusEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T04:31:42.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\Controllers\\UserController.cs",
+              "RelativeToolTip": "src\\Application\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:42:06.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UserStatusEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\Shared\\Enum\\UserStatusEnum.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Shared\\Enum\\UserStatusEnum.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\Shared\\Enum\\UserStatusEnum.cs",
+              "RelativeToolTip": "src\\Application\\Shared\\Enum\\UserStatusEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T04:30:20.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Domain\\Order\\Order.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Order\\Order.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Domain\\Order\\Order.cs",
+              "RelativeToolTip": "src\\Domain\\Order\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T04:26:35.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\Service\\UserService.cs",
+              "RelativeToolTip": "src\\Application\\Service\\UserService.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAIwFIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:19:15.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\Service\\BaseService.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Service\\BaseService.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\Service\\BaseService.cs",
+              "RelativeToolTip": "src\\Application\\Service\\BaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:18:33.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Infrastructure\\Repository\\User\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Repository\\User\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Infrastructure\\Repository\\User\\IUserRepository.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Repository\\User\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:00:04.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Infrastructure\\Repository\\User\\UserRepository.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Repository\\User\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Infrastructure\\Repository\\User\\UserRepository.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Repository\\User\\UserRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:00:03.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\DTOs\\User\\UserDto.cs",
+              "RelativeDocumentMoniker": "src\\Application\\DTOs\\User\\UserDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\DTOs\\User\\UserDto.cs",
+              "RelativeToolTip": "src\\Application\\DTOs\\User\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:57:21.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\DTOs\\User\\UserCreateDto.cs",
+              "RelativeDocumentMoniker": "src\\Application\\DTOs\\User\\UserCreateDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\DTOs\\User\\UserCreateDto.cs",
+              "RelativeToolTip": "src\\Application\\DTOs\\User\\UserCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:57:08.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Service\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\Service\\AuthService.cs",
+              "RelativeToolTip": "src\\Application\\Service\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:51:17.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "NShop.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\NShop.csproj",
+              "RelativeDocumentMoniker": "NShop.csproj",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\NShop.csproj",
+              "RelativeToolTip": "NShop.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-30T14:33:34.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Infrastructure\\Database\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Database\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Infrastructure\\Database\\DbInitializer.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Database\\DbInitializer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:11:46.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NShopDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Infrastructure\\Database\\NShopDbContextFactory.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Database\\NShopDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Infrastructure\\Database\\NShopDbContextFactory.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Database\\NShopDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:11:34.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Suppliers.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Domain\\Suppliers\\Suppliers.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Suppliers\\Suppliers.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Domain\\Suppliers\\Suppliers.cs",
+              "RelativeToolTip": "src\\Domain\\Suppliers\\Suppliers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:06:35.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Domain\\Categories\\Categories.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Categories\\Categories.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Domain\\Categories\\Categories.cs",
+              "RelativeToolTip": "src\\Domain\\Categories\\Categories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:04:44.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Image.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Domain\\Image\\Image.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Image\\Image.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Domain\\Image\\Image.cs",
+              "RelativeToolTip": "src\\Domain\\Image\\Image.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:03:30.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Domain\\Store\\Store.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Store\\Store.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Domain\\Store\\Store.cs",
+              "RelativeToolTip": "src\\Domain\\Store\\Store.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:50:41.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Domain\\Role\\Role.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Role\\Role.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Domain\\Role\\Role.cs",
+              "RelativeToolTip": "src\\Domain\\Role\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:57:33.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Domain\\Users\\User.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Users\\User.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Domain\\Users\\User.cs",
+              "RelativeToolTip": "src\\Domain\\Users\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:51:28.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Domain\\Product\\Products.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Product\\Products.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Domain\\Product\\Products.cs",
+              "RelativeToolTip": "src\\Domain\\Product\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:50:59.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NShopDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Infrastructure\\Database\\NShopDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Database\\NShopDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Infrastructure\\Database\\NShopDbContext.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Database\\NShopDbContext.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAewBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:42:50.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Makefile",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\Makefile",
+              "RelativeDocumentMoniker": "Makefile",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\Makefile",
+              "RelativeToolTip": "Makefile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-30T13:15:14.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T13:12:46.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:12:44.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\src\\Application\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "src\\Application\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwB0AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:04:34.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T13:02:26.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\BE\\server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T13:02:18.33Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
