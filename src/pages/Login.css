@@ -1,0 +1,150 @@
+.login-container {
+    display: flex;
+    flex-direction: row;
+    min-height: 100vh;
+  }
+  
+  .login-background {
+    width: 100%;
+    background-image: url('https://images.unsplash.com/photo-1505765050516-f72dcac9c60e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80');
+    background-size: cover;
+    background-position: center;
+    padding: 32px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .login-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: white;
+  }
+  
+  .login-subtitle {
+    font-size: 1.25rem;
+    color: white;
+    margin-bottom: 32px;
+  }
+  
+  .login-qr-container {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 24px;
+    border-radius: 12px;
+  }
+  
+  .login-qr-title {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: 16px;
+  }
+  
+  .login-qr-description {
+    font-size: 0.875rem;
+    text-align: center;
+  }
+  
+  .login-form-container {
+    position: absolute;
+    background-color: white;
+    padding: 50px;
+    border-radius: 10px;
+    margin: 50px;
+    margin-left: 900px;
+    width: 455px;
+  }
+  
+  .form-title {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 24px;
+  }
+  
+  .login-form {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+  }
+  
+  .form-group {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .form-label {
+    font-size: 0.875rem;
+  }
+  
+  .form-input {
+    padding: 8px;
+    border: 1px solid #d1d5db;
+    border-radius: 8px;
+  }
+  
+  .form-error {
+    font-size: 0.875rem;
+    color: #dc2626;
+  }
+  
+  .form-password {
+    position: relative;
+  }
+  
+  .password-toggle {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100%;
+    padding-right: 8px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .password-icon {
+    width: 20px;
+    height: 20px;
+    color: #9ca3af;
+  }
+  
+  .form-group-checkbox {
+    display: flex;
+    align-items: center;
+  }
+  
+  .checkbox-input {
+    margin-right: 8px;
+  }
+  
+  .submit-button {
+    padding: 12px;
+    background-color: #3b82f6;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  
+  .submit-button:disabled {
+    background-color: #d1d5db;
+  }
+  
+  .social-login {
+    margin-top: 24px;
+  }
+  
+  .social-divider {
+    text-align: center;
+    margin: 24px 0;
+  }
+  
+  .social-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+  }
+  
+  .forgot-password {
+    text-align: center;
+    margin-top: 16px;
+  }
+  
